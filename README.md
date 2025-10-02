@@ -118,9 +118,3 @@ src/
 ```bash
 npm run build  # Gera build otimizado (~67KB gzipped)
 ```
-
-**Opções de deploy:** Vercel, Netlify, GitHub Pages
-
----
-
-**Desenvolvido com React + Vite + TailwindCSS**
