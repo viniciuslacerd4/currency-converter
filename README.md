@@ -45,7 +45,7 @@ ZAR - Rand Sul-Africano
 ```bash
 # Clone o repositório
 git clone https://github.com/viniciuslacerd4/currency-converter.git
-cd React+Js
+cd currency-converter
 
 # Instale dependências
 npm install
